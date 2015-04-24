@@ -1,0 +1,7 @@
+{
+    "path_mapping": {
+        "/srv/www": "/var/www/ipp51/"
+    },
+    "max_depth": 5,
+    "close_on_stop": true
+}

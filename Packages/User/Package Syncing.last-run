@@ -1,0 +1,127 @@
+{
+    "last_local_data": {
+        "Base File.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Base File.sublime-settings", 
+            "version": 1422912070.0
+        }, 
+        "Blackboard (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Blackboard (SL).tmTheme", 
+            "version": 1422912072.0
+        }, 
+        "Default (Linux).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap", 
+            "version": 1423054915.771132
+        }, 
+        "Galea (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Galea (SL).tmTheme", 
+            "version": 1422912076.0
+        }, 
+        "Mac Classic (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Mac Classic (SL).tmTheme", 
+            "version": 1422912078.0
+        }, 
+        "Nexus (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Nexus (SL).tmTheme", 
+            "version": 1422912082.0
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Package Control.sublime-settings", 
+            "version": 1429155803.2782176
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Preferences.sublime-settings", 
+            "version": 1429169895.4353895
+        }, 
+        "SublimeLinter.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings", 
+            "version": 1427700496.7778673
+        }, 
+        "Xdebug.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings", 
+            "version": 1425274404.2828894
+        }, 
+        "bh_core.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/bh_core.sublime-settings", 
+            "version": 1423649859.2071981
+        }, 
+        "predawn (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/.config/sublime-text-3/Packages/User/predawn (SL).tmTheme", 
+            "version": 1423649975.6231985
+        }
+    }, 
+    "last_remote_data": {
+        "Base File.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Base File.sublime-settings", 
+            "version": 1422912070.0
+        }, 
+        "Blackboard (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Blackboard (SL).tmTheme", 
+            "version": 1422912072.0
+        }, 
+        "Default (Linux).sublime-keymap": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Default (Linux).sublime-keymap", 
+            "version": 1423054915.771132
+        }, 
+        "Galea (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Galea (SL).tmTheme", 
+            "version": 1422912076.0
+        }, 
+        "Mac Classic (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Mac Classic (SL).tmTheme", 
+            "version": 1422912078.0
+        }, 
+        "Nexus (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Nexus (SL).tmTheme", 
+            "version": 1422912082.0
+        }, 
+        "Package Control.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Package Control.sublime-settings", 
+            "version": 1429155803.2782176
+        }, 
+        "Preferences.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Preferences.sublime-settings", 
+            "version": 1429169895.4353895
+        }, 
+        "SublimeLinter.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/SublimeLinter.sublime-settings", 
+            "version": 1427700496.7778673
+        }, 
+        "Xdebug.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/Xdebug.sublime-settings", 
+            "version": 1425274404.2828894
+        }, 
+        "bh_core.sublime-settings": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/bh_core.sublime-settings", 
+            "version": 1423649859.2071981
+        }, 
+        "predawn (SL).tmTheme": {
+            "dir": "", 
+            "path": "/home/swaraj/Downloads/subl/predawn (SL).tmTheme", 
+            "version": 1423649975.6231985
+        }
+    }, 
+    "remove_packages": []
+}

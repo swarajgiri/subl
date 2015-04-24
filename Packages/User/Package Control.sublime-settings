@@ -1,0 +1,35 @@
+{
+	"auto_upgrade": true,
+	"auto_upgrade_frequency": 10,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"Autocomplete Javascript with Method Signature",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Handlebars",
+		"INI",
+		"JavaScriptFunctionDefinition",
+		"LESS",
+		"Package Control",
+		"Package Syncing",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
+		"Theme - Centurion",
+		"Theme - Glacier",
+		"Theme - Nexus",
+		"Twig",
+		"Xdebug Client"
+	],
+	"submit_usage": false
+}

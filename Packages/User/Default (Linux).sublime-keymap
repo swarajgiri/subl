@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+    { "keys": ["alt+d"], "command": "goto_definition" },
+    { "keys": ["f1"], "command": "sublimelinter_show_all_errors" },
+]
